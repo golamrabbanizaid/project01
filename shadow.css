@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-size: 58px;
+    text-shadow: 5px 5px 5px rgb(23, 6, 215);
+}
+.box img{
+ 
+    width:95%;
+    padding: 5px;
+
+}
+.box{
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    margin:auto;
+    border: 1px solid rgb(0, 0, 0, 0.5);
+    box-shadow: 3px 5px 5px 9px rgb(0, 0, 0, 0.5);
+    
+
+
+}
+h2{
+    margin: 0%;
+}
+a:hover{
+    color: rgb(0, 0, 0, 0.5);
+    text-decoration: dotted;
+}
+a{
+    text-decoration:none;
+}

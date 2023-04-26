@@ -1,0 +1,57 @@
+.box1{
+    background-color: green;
+    width: 300px;
+    height: 170px;
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    right: 0%;
+    margin:auto;
+    
+}
+.box2{
+    background-color: red;
+    width: 118px;
+    height: 118px;
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    right: 0%;
+    left: 0%;
+    margin: auto;
+    border-radius: 50%;
+}
+.p1{
+    
+    top: 0%;
+    font: bold;
+    font-size: 20px;
+    text-align:center;
+    color:rgb(147, 3, 243)
+
+}
+.p2{
+    margin-top: 1o00px;
+background-color: blueviolet;
+    text-transform: capitalize;
+    text-align: center;
+    position: sticky;
+    top:0%
+    
+
+}
+.p4{
+    position:fixed;
+    bottom: 0%;
+    right: 0%;
+    background-color: black;
+    color: white;
+
+}
+.p5{
+    color:rgb(11, 240, 164);
+    border:4px solid red;
+    max-width: 100%;
+    height: 400px;
+    overflow: auto;
+}

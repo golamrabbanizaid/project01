@@ -1,0 +1,16 @@
+.ftr{
+background-color: black;
+color: white;
+text-align: center;
+margin: 0;
+position: relative;
+bottom: 100%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}

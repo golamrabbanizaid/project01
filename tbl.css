@@ -1,0 +1,14 @@
+
+h1{
+    color: aqua;
+    border: 3px solid red;
+    max-width: 100%;
+    height: 100px;
+    overflow: auto;
+}
+p{
+    border:4px solid blueviolet;
+    height: 100px; width: 700px;
+    overflow: auto;
+    max-width: 100%;
+}

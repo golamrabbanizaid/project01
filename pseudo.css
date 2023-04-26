@@ -1,0 +1,10 @@
+
+h1::first-letter{
+    color:red;
+    font:large;
+    font-size: 42px;
+} 
+h1::after{
+    content:url(https://1.bp.blogspot.com/-X8N_1h-6ORs/XqPJ_wzX1MI/AAAAAAAAAjc/0GGk5BxIlxIU9acfMy84TAxlb9iHHWeJACLcBGAsYHQ/s1600/fakhrulalam.png);
+    
+}

@@ -1,0 +1,14 @@
+.sprite{
+    width: 105px;
+    height: 100px;
+    background-image: url(https://graphicsfamily.com/wp-content/uploads/2020/12/02.-Social-media-icon-collection-1180x885.jpg);
+    background-repeat: no-repeat;
+    background-position:-68px -191px ;
+    border-radius: 50%;
+    transition:1s;
+
+
+}
+.sprite:hover{
+    background-position:-610px -190px 
+}
